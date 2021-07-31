@@ -1,0 +1,2 @@
+module shruti.js {
+}
